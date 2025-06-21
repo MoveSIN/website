@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+  
+execute:
+  freeze: auto
+
+website:
+  title: "MoveSIN"
+  page-navigation: true
+  back-to-top-navigation: true
+  
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      # - about.qmd
+      
+    right:
+    - icon: github
+      href: https://github.com/MoveSIN/website
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
