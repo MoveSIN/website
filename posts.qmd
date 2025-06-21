@@ -1,0 +1,10 @@
+---
+title: "Seminars and Workshops"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+---
+
+Below is a list of the seminars and workshops that the MoveSIN has hosted.

@@ -14,12 +14,24 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: posts.qmd
       # - about.qmd
       
     right:
     - icon: github
       href: https://github.com/MoveSIN/website
-
+    - text: "Bluesky"
+      href: https://bsky.app/profile/ausmovementecology.bsky.social
+      
+      
+  page-footer:
+    background: light
+    center:
+      - icon: github
+        href: https://github.com/MoveSIN/website
+      - text: "Bluesky"
+        href: https://bsky.app/profile/ausmovementecology.bsky.social
+      
 format:
   html:
     theme: cosmo

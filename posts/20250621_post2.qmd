@@ -1,0 +1,14 @@
+---
+title: "Post 2"
+description: "An example second post"
+author: "Scott Forrest"
+date: "21 06 2025"
+categories:
+  - seminar
+  - tutorial
+  # - code
+  # - journal club
+draft: true
+---
+
+Hello, this is the second post on the Movement Ecology Special Interest Network website. This is a test post to see how it looks and works.

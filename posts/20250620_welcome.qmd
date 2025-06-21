@@ -1,0 +1,13 @@
+---
+title: "Welcome!"
+description: "We haven't hosted any seminars yet, but please join us!"
+author: "Scott Forrest"
+date: "21 06 2025"
+categories:
+  - seminar
+  - tutorial
+  - code
+  - journal club
+---
+
+Hello! This is the first post on the Movement Ecology Special Interest Network website. We are still getting things up and running, but we will soon be hosting seminars, which are open to all. To join the mailing list, fill in the Google form here: [https://forms.gle/XqZXXLH73XBN26QS7](https://forms.gle/XqZXXLH73XBN26QS7).
