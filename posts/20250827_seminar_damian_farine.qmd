@@ -1,5 +1,5 @@
 ---
-title: "Damien Farine"
+title: "Seminar - Damien Farine"
 description: "Physiological trade-offs and adaptive movement strategies in dispersal and collective movements"
 author: "Scott Forrest"
 date: "27 08 2025"
@@ -7,11 +7,15 @@ categories:
   - seminar
 ---
 
-**Prof. Dr. Damien Farine**
+**Prof. Dr. Damien Farine**  
 Eccellenza Professor, Department of Evolutionary Biology and Environmental Studies, University of Zurich
 Associate Professor, Division of Ecology and Evolution, Research School of Biology, Australian National University
 Affiliated Scientist, Department of Collective Behavior, Max Planck Institute of Animal Behavior
-w: https://sites.google.com/site/drfarine/home 
+w: [https://sites.google.com/site/drfarine/home](https://sites.google.com/site/drfarine/home)
 
 Physiological trade-offs and adaptive movement strategies in dispersal and collective movements
 Movement is inherently tied to physiology yet we know surprisingly little about the energetic costs individuals face during different movement contexts. While large-scale dispersal is expected to incur significant energetic demands, animals may use strategic behaviours to mitigate these costs. Likewise, collective movement—common in many group-living species—has raised questions about the physiological consequences of coordinating movements, maintaining cohesion, and leadership. Over the past decade, I have been conducting a large-scale GPS tracking study of wild vulturine guineafowl, a terrestrial and highly social bird. Using high-resolution (1 Hz) tracking data, we examined the movement costs of solitary dispersal and uncovered behavioural strategies that allow individuals to mitigate the energetic demands of making large-scale displacements. By comparing these solitary movements to group movements, we have also revealed inefficiencies and distinct costs associated with moving collectively. Furthermore, by implanting heart-rate loggers and tracking entire groups, we investigated the physiological consequences of leadership within groups ‘on the move’—revealing that leaders pay a cost when faced with competing directional preferences among group members. These findings highlight the importance of considering movement from both physiological and social perspectives, and the behavioural flexibility that animals can use to manage the energetic demands of movement.
+
+**Recording can be found here:** [https://youtu.be/kpDKLdv9JU8](https://youtu.be/kpDKLdv9JU8)
+
+![](../images/farine_title_slide.jpg)
