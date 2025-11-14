@@ -2,7 +2,7 @@
 title: "Movebank and MoveApps - Ashley Lohr"
 description: "Physiological trade-offs and adaptive movement strategies in dispersal and collective movements"
 author: "Scott Forrest"
-date: "27 08 2025"
+date: "14 11 2025"
 categories:
   - seminar
 ---
