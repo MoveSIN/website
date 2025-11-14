@@ -1,5 +1,5 @@
 ---
-title: "Seminar - Damien Farine"
+title: "The ecology of collective movements - Damien Farine"
 description: "Physiological trade-offs and adaptive movement strategies in dispersal and collective movements"
 author: "Scott Forrest"
 date: "27 08 2025"

@@ -1,0 +1,18 @@
+---
+title: "Movebank and MoveApps - Ashley Lohr"
+description: "Physiological trade-offs and adaptive movement strategies in dispersal and collective movements"
+author: "Scott Forrest"
+date: "27 08 2025"
+categories:
+  - seminar
+---
+
+**Presentation description**  
+Movebank (movebank.org) is a global platform for managing, sharing, and archiving animal tracking and other animal-borne sensor data. Movebank is closely integrated with MoveApps (moveapps.org), a user-friendly no-code analysis platform for animal tracking data. This seminar will provide an overview of both Movebank and MoveApps and highlight how researchers and conservation practitioners use these platforms as a backbone for larger-scale initiatives and applications that leverage the system's harmonized database, near-live data feeds, APIs, access control for public and controlled-access data, and serverless cloud computing services such as MoveApps.
+
+**Ashley Lohr**  
+Ashley Lohr is a wildlife biologist and project coordinator for Movebank and MoveApps, open platforms for animal tracking and bio-logging data management and analysis. She regularly engages with users, site developers, and partners to help improve the platforms’ services and data quality. This includes user support; planning, testing, and documenting new features; and leading and coordinating communication and outreach efforts.
+
+**Recording can be found here:** [https://youtu.be/DYXI1z-wONM](https://youtu.be/DYXI1z-wONM)
+
+![](../images/ashley_lohr_title_icon.png)
