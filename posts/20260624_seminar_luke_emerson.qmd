@@ -1,0 +1,23 @@
+---
+title: "Preparing GPS telemetry data for analysis - Luke Emerson"
+# description: "Physiological trade-offs and adaptive movement strategies in dispersal and collective movements"
+author: "Scott Forrest"
+date: "24 06 2026"
+categories:
+  - seminar
+---
+
+**Presentation description**  
+Before diving into complex movement or habitat selection models, ensuring data quality is paramount. GPS telemetry data is notoriously prone to errors, from minor location inaccuracies to extreme telemetry spikes, that can heavily bias downstream ecological inferences. Using real-world terrestrial datasets from felids, this workshop covers practical workflows in R to explore, diagnose, and clean tracking data. You will learn how to identify structural anomalies, filter out problematic fixes, and confidently prepare movement datasets for robust subsequent analysis.
+
+**Luke Emerson**  
+Luke is a Research Fellow and quantitative ecologist exploring how and why species and communities are structured across space and time. His work focuses on habitat selection, niche dynamics, population abundance, and species interactions, with a particular interest in carnivore ecology. Currently, he leads a NESP Resilient Landscapes Hub project, investigating strategies to improve feral cat and fox management in priority landscapes.
+
+**Recording can be found here:** [https://youtu.be/gAEf61gR7Bc](https://youtu.be/gAEf61gR7Bc)
+**GitHub repository**  with the scripts and data that Luke used is here: [https://github.com/LukeDanielEmerson/MoveSIN-GPS-data-cleaning-and-exploration](https://github.com/LukeDanielEmerson/MoveSIN-GPS-data-cleaning-and-exploration)
+
+Some papers that were mentioned in the discussion:
+- Hofmann, D. D., Cozzi, G., & Fieberg, J. (2024). Methods for implementing integrated step-selection functions with incomplete data. Movement Ecology, 12(1), 37. https://doi.org/10.1186/s40462-024-00476-8
+- Shimada, T., Jones, R., Limpus, C., & Hamann, M. (2012). Improving data retention and home range estimates by data-driven screening. Marine Ecology Progress Series, 457, 171–180. https://doi.org/10.3354/meps09747
+
+![](../images/thumbnail_luke_emerson.png)
