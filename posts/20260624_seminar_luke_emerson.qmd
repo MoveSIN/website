@@ -17,7 +17,9 @@ Luke is a Research Fellow and quantitative ecologist exploring how and why speci
 **GitHub repository**  with the scripts and data that Luke used is here: [https://github.com/LukeDanielEmerson/MoveSIN-GPS-data-cleaning-and-exploration](https://github.com/LukeDanielEmerson/MoveSIN-GPS-data-cleaning-and-exploration)
 
 Some papers that were mentioned in the discussion:
-- Hofmann, D. D., Cozzi, G., & Fieberg, J. (2024). Methods for implementing integrated step-selection functions with incomplete data. Movement Ecology, 12(1), 37. https://doi.org/10.1186/s40462-024-00476-8
-- Shimada, T., Jones, R., Limpus, C., & Hamann, M. (2012). Improving data retention and home range estimates by data-driven screening. Marine Ecology Progress Series, 457, 171–180. https://doi.org/10.3354/meps09747
+
+- Hofmann, D. D., Cozzi, G., & Fieberg, J. (2024). **Methods for implementing integrated step-selection functions with incomplete data**. Movement Ecology, 12(1), 37. https://doi.org/10.1186/s40462-024-00476-8
+- Shimada, T., Jones, R., Limpus, C., & Hamann, M. (2012). **Improving data retention and home range estimates by data-driven screening**. Marine Ecology Progress Series, 457, 171–180. https://doi.org/10.3354/meps09747
+\
 
 ![](../images/thumbnail_luke_emerson.png)
