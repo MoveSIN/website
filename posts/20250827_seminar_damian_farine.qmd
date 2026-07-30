@@ -1,6 +1,6 @@
 ---
-title: "The ecology of collective movements - Professor Damien Farine"
-description: "Physiological trade-offs and adaptive movement strategies in dispersal and collective movements"
+title: "The ecology of collective movements: Physiological trade-offs and adaptive movement strategies in dispersal and collective movements"
+description: "Professor Damien Farine"
 # author: "Scott Forrest"
 date: "27 08 2025"
 categories:
