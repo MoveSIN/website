@@ -8,7 +8,7 @@ categories:
 ---
 
 **Presentation description**  
-This talk discusses the Blue Corridors for Turtles project, a collaborative partnership aiming to catalyse the development of Important Marine Turtle Areas alongside the IUCN Marine Turtle Specialist Group. It will cover a brief history of important area processes, the journey from tracking data syntheses into useable knowledge products, and how involvement at events like CMS COP can move the needle for projects working on migratory species protection.
+This talk discusses the Blue Corridors for Turtles project, a collaborative partnership aiming to catalyse the development of Important Marine Turtle Areas alongside the IUCN Marine Turtle Specialist Group. It covers a brief history of important area processes, the journey from tracking data syntheses into useable knowledge products, and how involvement at events like CMS COP can move the needle for projects working on migratory species protection.
 
 **Lily Bentley**  
 Lily is a movement ecologist and Postdoctoral Research Fellow in the Applied Marine Biogeography Lab. She is interested in how and where highly mobile predators travel, what their journeys can teach us about their evolutionary histories, and how to translate research findings into effective conservation policies. In AMBL, she is working on using animal tracking data and network models to understand migratory connectivity in the oceans. She received her BSc (Hons) from the University of Queensland, studying the thermal physiology and behaviour of wild saltwater crocodiles. In her PhD, at the University of Cambridge, she investigated the foraging ecology of albatrosses and petrels across the Southern Ocean.
