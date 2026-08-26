@@ -9,14 +9,14 @@ categories:
 
 ![](../images/thumbnail_luke_emerson.png)
 
+**Recording can be found here:** [https://youtu.be/gAEf61gR7Bc](https://youtu.be/gAEf61gR7Bc)
+**GitHub repository**  with the scripts and data that Luke used is here: [https://github.com/LukeDanielEmerson/MoveSIN-GPS-data-cleaning-and-exploration](https://github.com/LukeDanielEmerson/MoveSIN-GPS-data-cleaning-and-exploration)
+
 **Presentation description**  
 Before diving into complex movement or habitat selection models, ensuring data quality is paramount. GPS telemetry data is notoriously prone to errors, from minor location inaccuracies to extreme telemetry spikes, that can heavily bias downstream ecological inferences. Using real-world terrestrial datasets from felids, this workshop covers practical workflows in R to explore, diagnose, and clean tracking data. You will learn how to identify structural anomalies, filter out problematic fixes, and confidently prepare movement datasets for robust subsequent analysis.
 
 **Dr Luke Emerson**  
 Luke is a Research Fellow and quantitative ecologist exploring how and why species and communities are structured across space and time. His work focuses on habitat selection, niche dynamics, population abundance, and species interactions, with a particular interest in carnivore ecology. Currently, he leads a NESP Resilient Landscapes Hub project, investigating strategies to improve feral cat and fox management in priority landscapes.
-
-**Recording can be found here:** [https://youtu.be/gAEf61gR7Bc](https://youtu.be/gAEf61gR7Bc)
-**GitHub repository**  with the scripts and data that Luke used is here: [https://github.com/LukeDanielEmerson/MoveSIN-GPS-data-cleaning-and-exploration](https://github.com/LukeDanielEmerson/MoveSIN-GPS-data-cleaning-and-exploration)
 
 Some papers that were mentioned in the discussion:
 
