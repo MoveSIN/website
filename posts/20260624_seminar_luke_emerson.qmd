@@ -7,6 +7,8 @@ categories:
   - seminar
 ---
 
+![](../images/thumbnail_luke_emerson.png)
+
 **Presentation description**  
 Before diving into complex movement or habitat selection models, ensuring data quality is paramount. GPS telemetry data is notoriously prone to errors, from minor location inaccuracies to extreme telemetry spikes, that can heavily bias downstream ecological inferences. Using real-world terrestrial datasets from felids, this workshop covers practical workflows in R to explore, diagnose, and clean tracking data. You will learn how to identify structural anomalies, filter out problematic fixes, and confidently prepare movement datasets for robust subsequent analysis.
 
@@ -21,5 +23,3 @@ Some papers that were mentioned in the discussion:
 - Hofmann, D. D., Cozzi, G., & Fieberg, J. (2024). **Methods for implementing integrated step-selection functions with incomplete data**. Movement Ecology, 12(1), 37. https://doi.org/10.1186/s40462-024-00476-8
 - Shimada, T., Jones, R., Limpus, C., & Hamann, M. (2012). **Improving data retention and home range estimates by data-driven screening**. Marine Ecology Progress Series, 457, 171–180. https://doi.org/10.3354/meps09747
 \
-
-![](../images/thumbnail_luke_emerson.png)

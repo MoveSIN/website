@@ -7,6 +7,8 @@ categories:
   - seminar
 ---
 
+![](../images/thumbnail_lily_bentley_andrew_maurer.png)
+
 **Presentation description**  
 This talk discusses the Blue Corridors for Turtles project, a collaborative partnership aiming to catalyse the development of Important Marine Turtle Areas alongside the IUCN Marine Turtle Specialist Group. It covers a brief history of important area processes, the journey from tracking data syntheses into useable knowledge products, and how involvement at events like CMS COP can move the needle for projects working on migratory species protection.
 
@@ -17,6 +19,3 @@ Lily is a movement ecologist and Postdoctoral Research Fellow in the Applied Mar
 Andrew is a Research Fellow at the University of Queensland (UQ), where I work in the Applied Marine Biogeography Lab led by Daniel Dunn. From his position at UQ, he works under the Blue Corridors for Turtles project—an initiative coordinated by UQ, the World Wide Fund for Nature  (WWF), the State of the World’s Sea Turtles Program (SWOT; part of the Oceanic Society), Collecte Localisation Satellites (CLS), and the Secretariat of the Convention on Migratory Species (CMS). This work is in close partnership with the IUCN-SSC Marine Turtle Specialist Group (MTSG) and data contributors worldwide. Andrew is also an active member of the Jumby Bay Hawksbill Project in Antigua, West Indies, where I contribute as a Senior Research Associate.
 
 **Recording can be found here:** [https://youtu.be/P3Zxxc9JEx4](https://youtu.be/P3Zxxc9JEx4)
-
-
-![](../images/thumbnail_lily_bentley_andrew_maurer.png)

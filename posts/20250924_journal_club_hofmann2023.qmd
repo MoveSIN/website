@@ -7,7 +7,7 @@ categories:
   - journal club
 ---
 
-**For this month's MoveSIN meeting we will be discussing the following paper:**
+![](../images/hofmann2023_graphical_abstract.png)
 
 Hofmann, D. D., Cozzi, G., McNutt, J. W., Ozgul, A., & Behr, D. M. (2023). *A three-step approach for assessing landscape connectivity via simulated dispersal: African wild dog case study.* Landscape Ecology, 38(4), 981–998. [https://doi.org/10.1007/s10980-023-01602-4](https://doi.org/10.1007/s10980-023-01602-4)
 
@@ -25,5 +25,3 @@ Using step-selection functions we successfully parametrized a detailed dispersal
 
 **Conclusion**  
 By explicitly simulating dispersal trajectories, our approach not only requires fewer unrealistic assumptions about dispersal, but also permits the calculation of multiple connectivity metrics that together provide a comprehensive view of landscape connectivity. In our case study, the three derived connectivity maps revealed several wild dog dispersal hotspots and corridors across the extent of our study area. Each map highlighted a different aspect of landscape connectivity, thus emphasizing their complementary nature. Overall, our case study demonstrates that a simulation-based approach offers a simple yet powerful alternative to traditional connectivity modeling techniques. It is therefore useful for a variety of applications in ecological, evolutionary, and conservation research.
-
-![](../images/hofmann2023_graphical_abstract.png)
