@@ -1,5 +1,5 @@
 ---
-title: "Movement,tropic niche and predation risk of non-breeding shorebirds in Australia"
+title: "Movement, tropic niche and predation risk of non-breeding shorebirds in Australia"
 description: "Maxime Marini"
 # author: "Scott Forrest"
 date: "30 09 2026"
