@@ -12,7 +12,7 @@ Animal movement data provides a rich source of information to understand animal 
 
 Around Australia, researchers are applying exciting movement ecology tools and analysing animal movement datasets, which we aim to bring together through meetings, seminars and ‘bring-your-problem’ workshops. We hope this will help to create a collaborative network that will benefit both experienced researchers and those just embarking into movement ecology.
 
-### We aim to 
+### We aim to
 
 - Hold a meeting/seminar/workshop every month
 - Host a symposium and/or workshop at the ESA conference
