@@ -1,0 +1,19 @@
+---
+title: "Rethinking How We Model Dispersal and Landscape Connectivity for Conservation Science"
+description: "David Hofmann"
+# author: "Scott Forrest"
+date: "21 10 2026"
+categories:
+  - seminar
+---
+
+![](../images/thumbnail_david_hofmann.png)
+
+**Recording can be found here:** [https://youtu.be/uNCKO_cf1eE](https://youtu.be/uNCKO_cf1eE)
+
+**Presentation description**  
+Landscape connectivity is central to biodiversity conservation, yet traditional modelling approaches often rely on simplified assumptions about animal movement and the landscapes they inhabit. Drawing on research on African wild dog dispersal in Botswana, this talk explores how individual-based movement simulations and alternative modelling pipelines can improve connectivity predictions, and whether accounting for seasonal environmental dynamics offers additional benefits over more realistic movement models. Beyond methodological questions, the talk also challenges how we conceptualise connectivity itself, and encourages a fresh perspective on what connectivity models actually measure and how they can better inform conservation decisions.
+ 
+**David Hofmann**
+David started his academic journey in Economics at the University of Zurich, but eventually decided to give up the pursuit of money in favour of saving the planet. He went on to study Environmental Sciences, where his master's thesis focused on the dispersal of endangered African wild dogs in Botswana, using GPS movement data. Fascinated by these animals, their landscapes, and the potential of movement data to predict their journeys, he stayed on for a PhD in Ecology, exploring wild dog dispersal and landscape connectivity across southern Africa. Today, David is a passionate movement ecologist keen to bridge the gap between cutting-edge science and applied conservation. As Research Coordinator for Botswana Predator Conservation, he regularly finds himself overwhelmed by everything from managing field teams and databases to writing grants, fixing equipment, and navigating bureaucracy. Fortunately, the role also keeps him scientifically engaged and gives him the privilege of studying the animals he's trying to protect. When he's not drowning in emails or staring at GPS tracks, he's usually somewhere in the Botswana bush looking for some carnivores.
+
